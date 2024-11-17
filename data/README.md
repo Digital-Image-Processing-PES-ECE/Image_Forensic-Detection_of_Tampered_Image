@@ -1,1 +1,1 @@
-This folder contains all input images used in the project.
+This folder contains all input images used in the project. [.tif format]
