@@ -10,7 +10,6 @@
    
 #### Additional concepts used -
 1. - Correlation Map
-2. -
    
 #### Dataset - 
 Columbia Uncompressed Image Splicing Detection Evaluation Dataset:https://www.ee.columbia.edu/ln/dvmm/downloads/authsplcuncmp/
@@ -36,14 +35,13 @@ Columbia Uncompressed Image Splicing Detection Evaluation Dataset:https://www.ee
 ```python main.py (for eg.)```
 
 ### Outputs:
-* Important intermediate steps
-* Final output images 
+
 
 ### References:
 1. - Gonzalez, R.C., & Woods, R.E.
      Digital Image Processing, 4th Edition, Pearson, 2018
 2. - Columbia Uncompressed Image Splicing Detection Evaluation Dataset: https://www.ee.columbia.edu/ln/dvmm/downloads/authsplcuncmp/
-3. - Image forgery detection using MATLAB: https://www.pantechsolutions.net/image-forgery-detection-using-matlab#:~:text=PROPOSED%20METHOD&text=First%2C%20an%20adaptive%20over%2Dsegmentation,as%20Block%20Features%20(BF)
+3. - Image forgery detection using MATLAB: https://www.pantechsolutions.net/image-forgery-detection-using-           matlab#:~:text=PROPOSED%20METHOD&text=First%2C%20an%20adaptive%20over%2Dsegmentation,as%20Block%20Features%20(BF)
 4. - MATLAB Documentation
 
    
