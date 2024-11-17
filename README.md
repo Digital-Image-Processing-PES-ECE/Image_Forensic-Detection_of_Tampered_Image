@@ -26,7 +26,7 @@ Columbia Uncompressed Image Splicing Detection Evaluation Dataset:https://www.ee
 
 ### Steps:
 1. Clone Repository
-```git clone https://github.com/Digital-Image-Processing-PES-ECE/project-name.git ```
+```https://github.com/Digital-Image-Processing-PES-ECE/Image_Forensic-Detection_of_Tampered_Image.git```
 
 2. Install Dependencies
 ```pip install -r requirements.txt```
