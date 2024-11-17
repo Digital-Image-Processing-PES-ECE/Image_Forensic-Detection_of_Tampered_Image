@@ -35,13 +35,18 @@ Columbia Uncompressed Image Splicing Detection Evaluation Dataset:https://www.ee
 ```python main.py (for eg.)```
 
 ### Outputs:
+![Og v:s tamp](https://github.com/user-attachments/assets/024ad7bd-30a3-4efc-838e-45cdf9396e6e)
+![Edge](https://github.com/user-attachments/assets/e6f528e1-dfd3-4a8e-9c7a-06562046cad4)
+![DCT](https://github.com/user-attachments/assets/840c1185-7724-40b7-ba21-6377aefb42c9)
+![Hist](https://github.com/user-attachments/assets/0b6778f3-9b8b-4b50-b67c-45f5a80590b7)
 
+Result: The Second image is tampered.
 
 ### References:
 1. - Gonzalez, R.C., & Woods, R.E.
      Digital Image Processing, 4th Edition, Pearson, 2018
 2. - Columbia Uncompressed Image Splicing Detection Evaluation Dataset: https://www.ee.columbia.edu/ln/dvmm/downloads/authsplcuncmp/
-3. - Image forgery detection using MATLAB: https://www.pantechsolutions.net/image-forgery-detection-using-           matlab#:~:text=PROPOSED%20METHOD&text=First%2C%20an%20adaptive%20over%2Dsegmentation,as%20Block%20Features%20(BF)
+3. - Image forgery detection using MATLAB: https://towardsdatascience.com/image-forgery-detection-2ee6f1a65442
 4. - MATLAB Documentation
 
    
